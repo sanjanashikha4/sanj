@@ -5,8 +5,13 @@ welcome to sanjana kitchen.
  kheer
  pasta
 chicken
+beans
+pizza
 
 
 thank you
+
+done my changes
+
 
 final copy
